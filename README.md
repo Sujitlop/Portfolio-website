@@ -1,6 +1,6 @@
 <h2 align="center">
   Sujit Lopchan - Portfolio Website<br/>
-  <a href="https://sujitlopchan.com" target="_blank">sujitlopchan.com</a>
+  <a href="https://sujitlopchan.com" target="_blank">sujitlopchan.tech</a>
 </h2>
 <div align="center">
   <img alt="Demo" src="./Images/readme-img1.png" />
